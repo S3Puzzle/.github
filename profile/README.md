@@ -1,6 +1,6 @@
 # Puzzle site
  
-Ik wil een website maken, die een dagelijkse puzzel heeft. Wanneer je de puzzel oplost wordt je score opgeslagen en op een leaderboard laten zien.
+Ik wil een website maken, die een dagelijkse puzzel heeft. Wanneer je de puzzel oplost, wordt je score opgeslagen en op een leaderboard laten zien.
 
 ## User stories
 UC01 Als speler wil ik dat er een puzzel op de hoofdpagina staat.
