@@ -3,7 +3,7 @@
 Ik wil een website maken, die een dagelijkse puzzel heeft. Wanneer je de puzzel oplost wordt je score opgeslagen en op een leaderboard laten zien.
 
 ## User stories
-Als speler wil ik dat er een puzzel op de hoofdpagina staat.
+1. Als speler wil ik dat er een puzzel op de hoofdpagina staat.
 Als speler wil ik dat er elke dag een nieuwe puzzel is, zodat ik opnieuw wordt uitgedaagd.
 Als speler wil ik zien hoe hoog ik op een puzzel gescoord heb, om te beoordelen hoe ik het gedaan heb.
 Als speler wil ik zien hoe hoog mijn dagelijkse score is vergeleken met andere spelers, zodat ik mijn niveau vergeleken met andere weet.
