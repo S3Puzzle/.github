@@ -29,7 +29,7 @@ UC01 en UC02 vallen onder de puzzle-service. In de database staan puzzels klaar 
 ### Leaderboard-service
  UC03, UC04, UC05 en UC07 vallen oner de leaderboard-service. 
  
-#### UC03 en UC04
+### UC03 en UC04
 Wanneer er een juist antwoord geweest is gegeven door de speler, wordt er vanaf de home page een post request naar de leaderboard-service gestuurd. In de request staan de naam van de speler, de behaalde score en de datum van de puzzel. Wanneer je de leaderboard page opent wordt er automatisch een get request gestuurd. Die geeft alle scores van vandaag waaronder die van de speler terug. Deze worden op de webpage laten zien.
 
 ### UC05
